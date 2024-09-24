@@ -28,4 +28,12 @@ rm spark-3.4.3-bin-hadoop3.tgz
 export SPARK_HOME="/workspaces/streaming_data/spark-3.4.3-bin-hadoop3"
 export PATH="${SPARK_HOME}/bin:${PATH}"
 
-analyze_steam.py
+# installing jupyter
+mkdir notebook
+cd notebook
+virtualenv jupyterenv
+source jupyterenv/bin/activate
+pip install jupyter
+jupyter notebook
+
+
