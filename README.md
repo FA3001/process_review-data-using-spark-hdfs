@@ -42,4 +42,3 @@ Successfully built and trained a collaborative filtering model to recommend game
 ### Future Work
 - Enhance the recommendation system by incorporating additional features such as review sentiment.
 - Implement real-time data processing using streaming frameworks like Kafka.
-- Expand analysis to include additional factors such as DLC (Downloadable Content) or in-game purchases.
