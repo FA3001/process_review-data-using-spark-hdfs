@@ -3,6 +3,8 @@
 ### Overview
 The Steam Review Analysis Project is a comprehensive data analysis initiative focused on deriving insights from a large dataset of user reviews on the Steam platform. By leveraging big data technologies, this project explores user sentiments, game trends, and reviewer behaviors while also providing game recommendations. The dataset contains 21 million rows and 23 columns, offering a rich source for extracting meaningful patterns.
 
+### Architecture 
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/29b75b08-a3d9-4463-96fa-bfa0d3e0defa)
 ### Objective
 The primary goal is to uncover trends, sentiments, and insights within the Steam gaming community through advanced data analysis and machine learning techniques.
 
